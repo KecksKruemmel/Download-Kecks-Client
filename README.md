@@ -10,13 +10,13 @@ ___
 ## 🇬🇧 English
 
 Welcome to the official download repository for the **Kecks Client**. 
-This is a custom built, lightweight launcher designed specifically for **The Cookie SMP**, providing a seamless and optimized Minecraft experience.
+This is a custom built, lightweight launcher designed to provide a seamless and optimized Minecraft experience.
 
 > **Note:** This repository is used exclusively for distributing the compiled releases. The source code is kept private.
 
 ### ✨ Features
 * **✅ Automatic Java Setup:** Automatically downloads and configures the correct Adoptium Java version.
-* **📊 Live Server Status:** Check the current player count and status of The Cookie SMP directly within the launcher.
+* **📊 Live Server Status:** Check the current player count and status of your Minecraft Server directly within the launcher.
 * **🚀 Fast & Clean:** Lightning fast startup times and a modern, user friendly interface.
 
 ### 📥 Download & Installation
@@ -41,13 +41,13 @@ ___
 ## 🇩🇪 Deutsch
 
 Willkommen im offiziellen Download Repository für den **Kecks Client**. 
-Dies ist ein speziell entwickelter, ressourcenschonender Launcher für **The Cookie SMP**, der dir ein reibungsloses und optimiertes Minecraft Erlebnis bietet.
+Dies ist ein speziell entwickelter, ressourcenschonender Launcher, der dir ein reibungsloses und optimiertes Minecraft Erlebnis bietet.
 
 > **Hinweis:** Dieses Repository dient ausschließlich der Bereitstellung der fertigen Downloads. Der Quellcode bleibt privat.
 
 ### ✨ Features
 * **✅ Automatisches Java Setup:** Lädt und konfiguriert im Hintergrund automatisch die korrekte Adoptium Java Version.
-* **📊 Live Server Status:** Überprüfe die aktuellen Spielerzahlen und den Status von The Cookie SMP direkt im Launcher.
+* **📊 Live Server Status:** Überprüfe die aktuellen Spielerzahlen und den Status deines Minecraft Servers direkt im Launcher.
 * **🚀 Schnell & Übersichtlich:** Blitzschnelle Startzeiten und eine moderne, benutzerfreundliche Oberfläche.
 
 ### 📥 Download & Installation
